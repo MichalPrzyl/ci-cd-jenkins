@@ -32,3 +32,6 @@ def test_abc():
     # fix 8
     assert 1 == 1
     # fix 9
+
+def test_2():
+    assert 1==1
