@@ -9,3 +9,5 @@ def test_abc():
     # pushed only to development
     # this pushed on development will not go well
     assert 1 == 1 # fixed
+    # fix 1
+    assert 1 == 2
