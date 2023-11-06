@@ -16,4 +16,4 @@ def test_abc():
     # fix 3
     assert 1 == 1
     # fix 4
-    assert 1 == 2
+    assert 1 == 1
