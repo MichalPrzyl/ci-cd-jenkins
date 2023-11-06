@@ -29,3 +29,5 @@ def test_abc():
     # this is development
     # and 2
     #and 3
+    # fix 8
+    assert 1 == 2
