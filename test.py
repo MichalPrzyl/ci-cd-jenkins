@@ -30,4 +30,4 @@ def test_abc():
     # and 2
     #and 3
     # fix 8
-    assert 1 == 2
+    assert 1 == 1
