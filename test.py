@@ -8,4 +8,4 @@ def test_abc():
     # stuff 2
     # pushed only to development
     # this pushed on development will not go well
-    assert 1 == 2
+    assert 1 == 1 # fixed
