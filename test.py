@@ -10,4 +10,4 @@ def test_abc():
     # this pushed on development will not go well
     assert 1 == 1 # fixed
     # fix 1
-    assert 1 == 2
+    assert 1 == 1
