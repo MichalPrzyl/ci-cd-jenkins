@@ -20,3 +20,5 @@ def test_abc():
 
     #fix 5
     assert 1 == 1
+    # fucked up
+    assert 1 == 2
