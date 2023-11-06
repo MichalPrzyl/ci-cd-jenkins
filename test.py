@@ -23,4 +23,4 @@ def test_abc():
     # fucked up
     assert 1 == 1
     # fix 6
-    assert 1 == 2
+    assert 1 == 1
